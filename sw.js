@@ -1,11 +1,11 @@
 const CACHE_NAME = 'medication-app-v1';
 const ASSETS = [
-    '/',
-    '/index.html',
-    '/style.css',
-    '/app.js',
-    '/manifest.json',
-    '/icon.svg'
+    './',
+    './index.html',
+    './style.css',
+    './app.js',
+    './manifest.json',
+    './icon.svg'
 ];
 
 self.addEventListener('install', (event) => {

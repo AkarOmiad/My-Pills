@@ -2,13 +2,13 @@
   "name": "بیرکەرەوەی دەرمان",
   "short_name": "دەرمانەکانم",
   "description": "بەرنامەی بیرکەرەوەی دەرمان و ڕۆژنامەی تەندروستی",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f6f8f8",
   "theme_color": "#42e1f0",
   "icons": [
     {
-      "src": "/icon.svg",
+      "src": "./icon.svg",
       "sizes": "192x192 512x512",
       "type": "image/svg+xml"
     }
